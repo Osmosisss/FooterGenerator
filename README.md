@@ -2,7 +2,7 @@
 
 > This should be used in the following manner
 
-Instal with the command:
+Install with the command:
 
 ***
 npm install --save osmosisss-js-footer
